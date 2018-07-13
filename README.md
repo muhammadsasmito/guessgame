@@ -5,10 +5,14 @@ see the tutorial : https://doc.rust-lang.org/book/second-edition/index.html
 
 install the rustup (rust+cargo) to your linux or mac os machine
 
-`curl https://sh.rustup.rs -sSf | sh`
+```
+curl https://sh.rustup.rs -sSf | sh
+```
 
 build and run the program using
 
-`cargo run`
+```
+cargo run
+```
  
 let's play :)
